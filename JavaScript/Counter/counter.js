@@ -10,6 +10,7 @@ decButton.addEventListener('click', () => {
 })
 
 incButton.addEventListener('click', () => {
+    
     num++;
     spanNumber.innerText = num;
 })
